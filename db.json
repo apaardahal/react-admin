@@ -1,0 +1,29 @@
+{
+    "post": [
+        {
+            "id": "1",
+            "title": "Post One",
+            "body": "This is a post bpdy",
+            "PublishedAt": "10-10-1"
+        },
+        {
+            "id": "2",
+            "title": "Post Two",
+            "body": "This is a post bpdy",
+            "Published": "10-10-1"
+        },
+        {
+            "id": "1",
+            "title": "Post Three",
+            "body": "This is a post bpdy",
+            "Published": "10-10-1"
+        }
+    ],
+    "users": [
+        {
+            "id":"1",
+            "name": "Apaar Dahal",
+            "email": "apaar@gmail.com"
+        }
+    ]
+}
